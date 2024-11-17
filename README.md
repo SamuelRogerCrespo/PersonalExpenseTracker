@@ -1,3 +1,47 @@
+# Personal Finance Tracker
+
+## Project Description
+This project is a personal finance tracking application built using **C#**. It allows users to log income, expenses, manage budgets, and generate reports. The application demonstrates object-oriented programming principles, including inheritance, polymorphism, and composition, as well as database integration for CRUD operations with SQLite.
+
+## Project Tasks
+- [ ] Set up the development environment
+- [x] Plan the project
+- [ ] Design the database and data models
+- [ ] Implement core features
+- [ ] Integrate SQLite database
+- [ ] Add user interface
+- [ ] Test the application
+- [ ] Document the project
+- [ ] Finalize and submit
+
+## Development Process
+This project followed the **Waterfall Methodology**, focusing on completing tasks in sequential order. Key steps included:
+
+1. **Setting up the development environment**
+2. **Designing the database schema**
+3. **Implementing core features**
+4. **Integrating SQLite for CRUD operations**
+
+## Skills Learned
+- C# programming
+- SQLite database integration
+- Git and GitHub for version control
+- Testing and debugging techniques
+- Writing documentation
+
+## Language Used
+- **C#**: For building the application
+- **SQLite**: For database storage and management
+
+## Link to Project
+[Personal Finance Tracker Repository](https://github.com/username/personal-finance-tracker)
+
+## Example Usage
+
+### Logging an Expense:
+```csharp
+var transaction = new Transaction("Food", 50.00);
+transaction.Save();
 #Project Name: Personal Finance Tracker
 ##Project Description
 This project is a personal finance tracking application built using C#. It allows users to log income, expenses, manage budgets, and generate reports. The application demonstrates object-oriented programming principles, including inheritance, polymorphism, and composition, as well as database integration for CRUD operations with SQLite.
