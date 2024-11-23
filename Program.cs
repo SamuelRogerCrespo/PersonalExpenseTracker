@@ -1,4 +1,5 @@
-﻿// Program.cs
+//Adding simple scenario to test implementation.  Add more later
+// Program.cs
 using System;
 
 class Program
