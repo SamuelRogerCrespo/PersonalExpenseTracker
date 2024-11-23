@@ -1,5 +1,5 @@
 # Personal Finance Tracker
-
+//Making good progress, should be on track to submit final by week 5
 ## Project Description
 This project is a personal finance tracking application built using **C#**. It allows users to log income, expenses, manage budgets, and generate reports. The application demonstrates object-oriented programming principles, including inheritance, polymorphism, and composition, as well as database integration for CRUD operations with SQLite.
 
