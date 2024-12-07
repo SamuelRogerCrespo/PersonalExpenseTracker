@@ -27,7 +27,7 @@ This project followed the **Agile Methodology**, focusing on completing tasks in
 - **SQLite**: For database storage and management
 
 ## Link to Project
-[Personal Finance Tracker Repository](https://https://github.com/SamuelRogerCrespo/PersonalExpenseTracker)
+[Personal Finance Tracker Repository](https://github.com/SamuelRogerCrespo/PersonalExpenseTracker)
 
 ## Features
 
@@ -39,4 +39,5 @@ This project followed the **Agile Methodology**, focusing on completing tasks in
 
 ### Sample Output:
 [Sample output can be seen here](https://github.com/SamuelRogerCrespo/PersonalExpenseTracker/blob/master/images/Output.PNG)
+
 
