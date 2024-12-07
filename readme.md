@@ -27,7 +27,7 @@ This project followed the **Agile Methodology**, focusing on completing tasks in
 - **SQLite**: For database storage and management
 
 ## Link to Project
-[Personal Finance Tracker Repository](https://github.com/username/personal-finance-tracker)
+[Personal Finance Tracker Repository](https://https://github.com/SamuelRogerCrespo/PersonalExpenseTracker)
 
 ## Features
 
@@ -37,6 +37,6 @@ This project followed the **Agile Methodology**, focusing on completing tasks in
 - **Generate Reports**: Generate financial reports based on your transactions over a selected period.
 - **Data Storage**: All data is stored locally in a database, which is persistently updated as users interact with the application.
 
-### Logging an Expense:
-Remember to add an example of how to implement once I finish.
+### Sample Output:
+[Sample output can be seen here](https://github.com/SamuelRogerCrespo/PersonalExpenseTracker/blob/master/images/Output.PNG)
 
